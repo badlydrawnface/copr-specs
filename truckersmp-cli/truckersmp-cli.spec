@@ -1,5 +1,5 @@
 %define name truckersmp-cli
-%define version 0.10.0
+%define version 0.10.1
 %define release 1
 
 Summary: A simple launcher for TruckersMP to be used with Wine/Proton
